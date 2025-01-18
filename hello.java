@@ -6,7 +6,7 @@ public class Main
         int max = arr[0], min = arr[0];
         for(int num: arr)
         {
-            if(num>max)
+            if(num>max)nmbk
             {
                 max = num;
             }
